@@ -16,7 +16,7 @@ Ekm = 1e-4      # the Ekman number
 Ra  = 80        # the reduced Rayleigh number
 Pm  = 0.7       # the reduced magnetic Prandtl number
 Pr  = 1.0       # the Prandtl number
-ik  = 1.3048    # wavenumber
+ik  = 1.3048    # the wavenumber
 
 T_final = 40.0  # final time
 
